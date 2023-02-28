@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name "keyboard_utils")(type "KiCad")(uri "${KIPRJMOD}/keyboard_utility_symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "foostan_kbd")(type "Legacy")(uri "/Users/t-mario-y/ghq/github.com/foostan/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "rp2040-zero")(type "KiCad")(uri "/Users/t-mario-y/temporary/KiCad/symbols/rp2040-zero.kicad_sym")(options "")(descr ""))
 )

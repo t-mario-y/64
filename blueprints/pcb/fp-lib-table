@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "foostan")(type "KiCad")(uri "/Users/t-mario-y/ghq/github.com/foostan/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "RP2040-zero")(type "KiCad")(uri "/Users/t-mario-y/temporary/KiCad/footprints")(options "")(descr ""))
+)
