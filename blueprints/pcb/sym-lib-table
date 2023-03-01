@@ -1,5 +1,7 @@
 (sym_lib_table
-  (lib (name "keyboard_utils")(type "KiCad")(uri "${KIPRJMOD}/keyboard_utility_symbols.kicad_sym")(options "")(descr ""))
+  (version 7)
   (lib (name "foostan_kbd")(type "Legacy")(uri "/Users/t-mario-y/ghq/github.com/foostan/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "raspberry-pi-pico")(type "KiCad")(uri "/Users/t-mario-y/ghq/github.com/ncarandini/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "Salicylic-acid3_kbd_Parts")(type "KiCad")(uri "/Users/t-mario-y/ghq/github.com/Salicylic-acid3/KiCAD_FootPrint/Salicylic_kbd_Library/Salicylic_kbd.kicad_sym")(options "")(descr ""))
   (lib (name "rp2040-zero")(type "KiCad")(uri "/Users/t-mario-y/temporary/KiCad/symbols/rp2040-zero.kicad_sym")(options "")(descr ""))
 )
