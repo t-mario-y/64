@@ -1,4 +1,6 @@
 (fp_lib_table
+  (version 7)
   (lib (name "foostan")(type "KiCad")(uri "/Users/t-mario-y/ghq/github.com/foostan/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
   (lib (name "RP2040-zero")(type "KiCad")(uri "/Users/t-mario-y/temporary/KiCad/footprints")(options "")(descr ""))
+  (lib (name "Raspberry Pi Pico")(type "KiCad")(uri "/Users/t-mario-y/ghq/github.com/ncarandini/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
 )
