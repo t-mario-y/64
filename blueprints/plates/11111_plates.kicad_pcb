@@ -92,7 +92,7 @@
 
   (footprint "keyboard_parts:m3_Screw_Hole" (layer "F.Cu")
     (tstamp 00a3c333-5177-44fe-8fd8-4d7cb599125b)
-    (at 171.52 242.776051)
+    (at 164.4 240.896051)
     (fp_text reference "REF**" (at 0 3.81 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5459e683-cc4a-487a-8dbf-8c9882dea5a6)
@@ -142,7 +142,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp 054486f6-7883-411d-acb6-61df11a9d475)
-    (at 103.005 97.186051)
+    (at 95.885 95.306051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -176,7 +176,7 @@
 
   (footprint "keyboard_parts:m3_Screw_Hole" (layer "F.Cu")
     (tstamp 0c17c00a-f71c-47a3-9689-7d18e49fc25f)
-    (at 92.48 242.776051)
+    (at 85.36 240.896051)
     (fp_text reference "REF**" (at 0 3.81 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 03fa300c-9ee4-42e1-91a8-937d6aff710e)
@@ -208,7 +208,7 @@
 
   (footprint "keyboard_parts:m3_Screw_Hole" (layer "F.Cu")
     (tstamp 1076e83d-9c0c-4707-8f40-68deef52d80b)
-    (at 35.9 27.576051)
+    (at 28.78 25.696051)
     (fp_text reference "REF**" (at 0 3.81 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 741bfb50-20ef-4d16-a467-f7055377ed7c)
@@ -224,7 +224,7 @@
 
   (footprint "keyboard_parts:m3_Screw_Hole" (layer "F.Cu")
     (tstamp 12f3a8e5-5b39-4d22-aadf-1ccb0e88e3d6)
-    (at 171.52 141.876051)
+    (at 164.4 139.996051)
     (fp_text reference "REF**" (at 0 3.81 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 06fdb367-71e5-41bd-b920-4ce8d5a2a416)
@@ -426,7 +426,7 @@
 
   (footprint "keyboard_parts:m3_Screw_Hole" (layer "F.Cu")
     (tstamp 39740783-b4c4-4100-9a9b-7e430c83b2d2)
-    (at 35.9 141.876051)
+    (at 28.78 139.996051)
     (fp_text reference "REF**" (at 0 3.81 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1a917e2b-7e52-4d54-8cea-648dc3f3fefd)
@@ -442,7 +442,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp 40b706d7-3d35-485d-994f-e3b07f023b96)
-    (at 141.105 78.016051)
+    (at 133.985 76.136051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -476,7 +476,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp 40d56230-27d7-4fdf-9411-0b8a0601052d)
-    (at 45.855 58.966051)
+    (at 38.735 57.086051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -578,7 +578,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp 45959775-453a-465a-ab2c-7f0387b49f70)
-    (at 83.955 97.186051)
+    (at 76.835 95.306051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -612,7 +612,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp 4804a544-8c01-4130-90a5-3274b5cf5e9d)
-    (at 103.065 116.116051)
+    (at 95.945 114.236051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -646,7 +646,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp 4b93bf21-02e8-47fb-92ed-a277f46138d1)
-    (at 45.855 39.916051)
+    (at 38.735 38.036051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -730,7 +730,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp 5646c50d-0c1c-4f81-acd3-47cd35d1111b)
-    (at 122.055 116.116051)
+    (at 114.935 114.236051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -764,7 +764,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp 57bb2fab-6bcb-4500-9fb4-7cb8cec3f764)
-    (at 64.835 58.966051)
+    (at 57.715 57.086051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -832,7 +832,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp 613ee79a-f7a8-4131-8e70-ab10245f3f4f)
-    (at 122.055 58.966051)
+    (at 114.935 57.086051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -866,7 +866,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp 6f8742f3-5c56-42eb-8ef0-1601533ba949)
-    (at 45.855 97.186051)
+    (at 38.735 95.306051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -934,7 +934,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp 78625fc8-0e57-4533-a997-b1946429d27d)
-    (at 122.055 97.186051)
+    (at 114.935 95.306051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -968,7 +968,7 @@
 
   (footprint "keyboard_parts:m3_Screw_Hole" (layer "F.Cu")
     (tstamp 8439da18-6958-4221-9ced-cb0114293726)
-    (at 55.38 87.636051)
+    (at 48.26 85.756051)
     (fp_text reference "REF**" (at 0 3.81 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5c46ca80-a4bb-4bc5-9b0b-d01498d585bd)
@@ -984,7 +984,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp 866eb02a-6539-4035-8770-0665cbd02ba6)
-    (at 160.155 78.016051)
+    (at 153.035 76.136051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -1170,7 +1170,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp 8fca4345-63f8-415a-ad04-ba6c986aed87)
-    (at 64.835 78.016051)
+    (at 57.715 76.136051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -1204,7 +1204,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp 92f91557-9d97-472d-b4e0-602c4acf8907)
-    (at 122.055 78.016051)
+    (at 114.935 76.136051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -1490,7 +1490,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp a78da2ea-05c2-45a9-9715-c2ac89f90aa3)
-    (at 141.105 39.916051)
+    (at 133.985 38.036051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -1524,7 +1524,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp a8172a80-2e1f-4226-a58c-6b690e3cb929)
-    (at 64.835 97.186051)
+    (at 57.715 95.306051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -1592,7 +1592,7 @@
 
   (footprint "keyboard_parts:m3_Screw_Hole" (layer "F.Cu")
     (tstamp b54f4cb1-c590-46eb-8242-879351a770d2)
-    (at 92.48 128.476051)
+    (at 85.36 126.596051)
     (fp_text reference "REF**" (at 0 3.81 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp df577a7d-e4fd-448d-9bc7-189ff9e6a1a4)
@@ -1608,7 +1608,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp b562d44c-11ef-4d63-ad2d-8a0c746511f8)
-    (at 160.155 97.066051)
+    (at 153.035 95.186051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -1642,7 +1642,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp b5d858b7-b330-4119-a06e-1eab6aa8ff23)
-    (at 160.155 58.966051)
+    (at 153.035 57.086051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -1692,7 +1692,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp be0086db-58e9-4e12-bede-ed8fea89fdab)
-    (at 45.855 78.016051)
+    (at 38.735 76.136051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -1726,7 +1726,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp c1487b9c-570b-44a0-a6ea-e01545ca131c)
-    (at 103.005 39.916051)
+    (at 95.885 38.036051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -1794,7 +1794,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp c98d48af-9dfb-44af-9e9b-5529a29db2b8)
-    (at 141.105 116.116051)
+    (at 133.985 114.236051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -1828,7 +1828,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp c9944136-812e-47ba-9e1b-a818f0eed131)
-    (at 141.105 58.966051)
+    (at 133.985 57.086051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -1862,7 +1862,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp caae9241-f8ce-4d94-be93-707ebefcc4da)
-    (at 103.005 78.016051)
+    (at 95.885 76.136051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -1946,7 +1946,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp d0f36cd6-4b43-4772-b232-02baf48a624d)
-    (at 64.835 39.916051)
+    (at 57.715 38.036051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -1980,7 +1980,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp d1932e5e-c656-46d0-928d-47dcb8853d3b)
-    (at 83.955 39.916051)
+    (at 76.835 38.036051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -2014,7 +2014,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp d396c353-d639-47f0-9b0c-7d7f7d97ac1a)
-    (at 160.155 39.916051)
+    (at 153.035 38.036051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -2082,7 +2082,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp d50bd55f-6e39-4fe0-8f9e-f671e110e76c)
-    (at 83.955 58.966051)
+    (at 76.835 57.086051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -2150,7 +2150,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp d8299d0a-e5de-49d7-9e79-769d49105d82)
-    (at 141.105 97.186051)
+    (at 133.985 95.306051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -2218,7 +2218,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp e06454a3-ca76-44c0-b6b9-9dc54afd3711)
-    (at 160.155 116.116051)
+    (at 153.035 114.236051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -2252,7 +2252,7 @@
 
   (footprint "keyboard_parts:m3_Screw_Hole" (layer "F.Cu")
     (tstamp e306395e-c89f-4d2d-bf01-718377d23ddf)
-    (at 55.38 201.936051)
+    (at 48.26 200.056051)
     (fp_text reference "REF**" (at 0 3.81 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b8aec9ad-68a1-4fcb-8355-55fa2eaade76)
@@ -2268,7 +2268,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp e325f3f2-ba1e-4eb7-ae98-57ac4e3a58f6)
-    (at 103.005 58.966051)
+    (at 95.885 57.086051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -2420,7 +2420,7 @@
 
   (footprint "keyboard_parts:m3_Screw_Hole" (layer "F.Cu")
     (tstamp f30ef227-2cc7-4180-8d57-d35971a22e4a)
-    (at 171.52 128.476051)
+    (at 164.4 126.596051)
     (fp_text reference "REF**" (at 0 3.81 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6b56f337-04c0-4cfb-9f5c-7d5ad41fd9c3)
@@ -2436,7 +2436,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp f677b3bb-a2b0-4786-ab58-2197eaecdf13)
-    (at 83.955 78.016051)
+    (at 76.835 76.136051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -2470,7 +2470,7 @@
 
   (footprint "keyboard_parts:m3_Screw_Hole" (layer "F.Cu")
     (tstamp f820983f-1fc3-48a0-ab28-96afd03eed8c)
-    (at 171.52 27.576051)
+    (at 164.4 25.696051)
     (fp_text reference "REF**" (at 0 3.81 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4770d358-a811-49b2-bfa2-772f50800e6c)
@@ -2520,7 +2520,7 @@
 
   (footprint "foostan:SW_Hole" (layer "F.Cu")
     (tstamp fc506d14-a356-4eae-a553-63ca45178c4e)
-    (at 122.055 39.916051)
+    (at 114.935 38.036051)
     (property "Sheetfile" "11111.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -2586,19 +2586,19 @@
       (stroke (width 0.15) (type solid)) (layer "F.Fab") (tstamp f805685f-c015-455d-885a-02477ddf8c65))
   )
 
-  (gr_arc (start 177.343949 130.716051) (mid 176.599997 132.512084) (end 174.803949 133.256051)
+  (gr_arc (start 170.223949 128.836051) (mid 169.479985 130.632087) (end 167.683949 131.376051)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 0be51a32-36c7-458d-838a-12c6bdab939c))
-  (gr_line (start 32.52 133.256051) (end 174.803949 133.256051)
+  (gr_line (start 25.4 131.376051) (end 167.683949 131.376051)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 1ab3dff2-a26a-40cd-9e5d-d1a70a74d5ab))
   (gr_line (start 191.200003 130.583965) (end 333.483952 130.283965)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 21423d73-94e6-4118-ac93-55a1dfade517))
-  (gr_arc (start 29.98 139.036051) (mid 30.723949 137.24) (end 32.52 136.496051)
+  (gr_arc (start 22.86 137.156051) (mid 23.603948 135.359999) (end 25.4 134.616051)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 24a50fca-cc33-42c7-9661-8af89c171665))
   (gr_line (start 335.318025 138.06) (end 335.28 243.84)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 24cd89bd-13b3-4418-ad3c-8eacbfedfb4b))
   (gr_arc (start 187.954076 138.056) (mid 188.698026 136.259958) (end 190.494076 135.516)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 2a104cfd-6c5d-4e20-9ca2-edd00cdfbe67))
-  (gr_line (start 32.52 247.556051) (end 174.803949 247.556051)
+  (gr_line (start 25.4 245.676051) (end 167.683949 245.676051)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 2a75feab-a4d4-4759-99c6-7bf8d4fdf131))
   (gr_arc (start 333.521977 19.423965) (mid 335.318042 20.167906) (end 336.061977 21.963965)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 2b8b85ca-4904-47a3-85c5-d8ac50f2d48a))
@@ -2612,48 +2612,48 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 5d873f48-9496-4dee-9854-64db7bf45ebd))
   (gr_line (start 336.061977 21.963965) (end 336.023952 127.743965)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 71ab21e6-b143-4e9c-82b4-6d51a92c21fb))
-  (gr_arc (start 32.52 247.556051) (mid 30.723949 246.812102) (end 29.98 245.016051)
+  (gr_arc (start 25.4 245.676051) (mid 23.603966 244.932099) (end 22.86 243.136051)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 7427c33c-2b73-4c26-8879-5ea456c4a4ff))
   (gr_line (start 190.494076 135.516) (end 332.778025 135.52)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 7bfa0701-31e8-4b43-aa07-72ab24dcb572))
-  (gr_arc (start 29.98 24.736051) (mid 30.723949 22.94) (end 32.52 22.196051)
+  (gr_arc (start 22.86 22.856051) (mid 23.603948 21.059999) (end 25.4 20.316051)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 7c511b91-9ff4-420f-9c9a-8729db8407fc))
   (gr_arc (start 191.200003 130.583965) (mid 189.403949 129.840018) (end 188.660003 128.043965)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 7e0d96fd-80e9-4203-b5ab-1c7b55355083))
-  (gr_arc (start 32.52 133.256051) (mid 30.723949 132.512102) (end 29.98 130.716051)
+  (gr_arc (start 25.4 131.376051) (mid 23.603966 130.632099) (end 22.86 128.836051)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 7ed27d66-25ef-40f6-a85a-1ff68e634356))
   (gr_arc (start 336.023952 127.743965) (mid 335.28 129.54) (end 333.483952 130.283965)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 8141242b-d451-48b7-9182-b7f27848c2c6))
-  (gr_arc (start 174.803949 136.492102) (mid 176.599986 137.236065) (end 177.343949 139.032102)
+  (gr_arc (start 167.683949 134.612102) (mid 169.480003 135.356062) (end 170.223949 137.152102)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 8784258d-b08e-456a-b7f1-bfb6634cebad))
-  (gr_arc (start 177.343949 245.016051) (mid 176.600003 246.81212) (end 174.803949 247.556051)
+  (gr_arc (start 170.223949 243.136051) (mid 169.480014 244.932116) (end 167.683949 245.676051)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 8af26d8d-22aa-4cdd-b99f-0f6491fb0359))
   (gr_line (start 191.238028 19.419965) (end 333.521977 19.423965)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 916b3f7a-513c-4817-9df5-3cdea72cdc8d))
   (gr_line (start 188.660003 128.043965) (end 188.698028 21.959965)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 9e8f6482-729f-4031-8b8e-82f45a97b92c))
-  (gr_line (start 177.343949 24.732102) (end 177.343949 130.716051)
+  (gr_line (start 170.223949 22.852102) (end 170.223949 128.836051)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp abb6d635-a80c-46a6-9a9c-c952701cd34b))
-  (gr_line (start 177.343949 139.032102) (end 177.343949 245.016051)
+  (gr_line (start 170.223949 137.152102) (end 170.223949 243.136051)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp b207c9e5-38fa-4c33-8fde-a01d895e3dd3))
-  (gr_arc (start 174.803949 22.192102) (mid 176.599986 22.936065) (end 177.343949 24.732102)
+  (gr_arc (start 167.683949 20.312102) (mid 169.480003 21.056062) (end 170.223949 22.852102)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp b72cc4a2-1630-41d1-8081-800ce3dfb924))
-  (gr_line (start 32.52 136.496051) (end 174.803949 136.492102)
+  (gr_line (start 25.4 134.616051) (end 167.683949 134.612102)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp c390da0e-edb3-4ecf-bd9b-8b18cd563672))
-  (gr_line (start 29.98 139.036051) (end 29.98 245.016051)
+  (gr_line (start 22.86 137.156051) (end 22.86 243.136051)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp d0cc9ad6-6e10-4ac2-9e01-f56798703c9d))
-  (gr_line (start 29.98 24.736051) (end 29.98 130.716051)
+  (gr_line (start 22.86 22.856051) (end 22.86 128.836051)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp f5723cc1-ce90-4d98-827b-d737ed47d286))
   (gr_arc (start 188.698028 21.959965) (mid 189.441979 20.163924) (end 191.238028 19.419965)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp fa8628aa-662e-4ead-ba19-9e3848b8f416))
   (gr_line (start 187.916051 244.14) (end 187.954076 138.056)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp fafd4895-6dab-4aa5-9e59-1d4f99b59995))
-  (gr_line (start 32.52 22.196051) (end 174.803949 22.192102)
+  (gr_line (start 25.4 20.316051) (end 167.683949 20.312102)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp fb3f9330-3094-4ac5-8d17-da2f5bfb9375))
-  (gr_text "11111 ver.1" (at 35.06 233.76) (layer "F.SilkS") (tstamp 3251904b-9da2-4bc0-ae50-fc102b4d384a)
+  (gr_text "11111 ver.1" (at 27.94 231.88) (layer "F.SilkS") (tstamp 3251904b-9da2-4bc0-ae50-fc102b4d384a)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "11111 ver.1" (at 35.06 122) (layer "F.SilkS") (tstamp 94fbdb50-7ff7-467f-9754-eaf60577a641)
+  (gr_text "11111 ver.1" (at 27.94 120.12) (layer "F.SilkS") (tstamp 94fbdb50-7ff7-467f-9754-eaf60577a641)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
   (gr_text "deprecated.(same for both hands)\nuse left only." (at 281.94 116.84) (layer "Eco1.User") (tstamp 6b777b2c-04ca-4c8a-a7d1-161434c5576c)
