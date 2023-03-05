@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 44,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -35,6 +35,7 @@
       3,
       4,
       5,
+      7,
       8,
       9,
       10,
@@ -70,7 +71,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "11111.kicad_prl",
+    "filename": "11111_pcb.kicad_prl",
     "version": 3
   },
   "project": {
