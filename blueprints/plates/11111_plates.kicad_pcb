@@ -2656,5 +2656,11 @@
   (gr_text "11111 ver.1" (at 35.06 122) (layer "F.SilkS") (tstamp 94fbdb50-7ff7-467f-9754-eaf60577a641)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
+  (gr_text "deprecated.(same for both hands)\nuse left only." (at 281.94 116.84) (layer "Eco1.User") (tstamp 6b777b2c-04ca-4c8a-a7d1-161434c5576c)
+    (effects (font (size 2 2) (thickness 0.15)) (justify left bottom))
+  )
+  (gr_text "deprecated.(same for both hands)\nuse left only." (at 281.94 154.94) (layer "Eco1.User") (tstamp f78b7476-e1a4-4072-a105-37d5a159c52d)
+    (effects (font (size 2 2) (thickness 0.15)) (justify left bottom))
+  )
 
 )
