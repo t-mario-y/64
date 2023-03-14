@@ -27,3 +27,7 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# backup files
+blueprints/pcb/11111_pcb-backups/
+blueprints/plates/11111_plates-backups/
