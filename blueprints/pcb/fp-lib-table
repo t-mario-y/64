@@ -7,4 +7,5 @@
   (lib (name "Salicylic-acid3_kbd_Parts")(type "KiCad")(uri "/Users/t-mario-y/ghq/github.com/Salicylic-acid3/KiCAD_FootPrint/kbd_Parts")(options "")(descr ""))
   (lib (name "foostan")(type "KiCad")(uri "/Users/t-mario-y/ghq/github.com/foostan/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
   (lib (name "keyboard_parts")(type "KiCad")(uri "/Users/t-mario-y/ghq/github.com/t-mario-y/11111/blueprints/kicad_libraries/keyboard_parts.pretty")(options "")(descr ""))
+  (lib (name "RP2040-zero")(type "KiCad")(uri "/Users/t-mario-y/ghq/github.com/okkdev/comfybox/pcb/lib/RP2040-Zero.pretty")(options "")(descr ""))
 )
