@@ -411,7 +411,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "11111.kicad_pro",
+    "filename": "11111_pcb.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -447,7 +447,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "11111_pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
