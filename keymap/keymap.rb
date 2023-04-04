@@ -1,11 +1,12 @@
 kbd = Keyboard.new
 
 kbd.split = true
-kbd.uart_pin = 0
+kbd.uart_pin = 15
+kbd.set_anchor(:left)
 
 kbd.init_pins(
-  [11, 12, 13, 14, 15],        # rows
-  [22, 21, 20, 19, 18, 17, 16] # columns
+  [14, 13, 12, 11, 10], # rows
+  [ 0,  1,  2,  3,  7,  8,  9] # columns
 )
 
 # Row01-----Row02-----Row03-----Row04-----Row05-----Row06-----Row07-----Row14-----Row13-----Row12-----Row11-----Row10-----Row09-----Row08-----
