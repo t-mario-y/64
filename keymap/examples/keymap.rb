@@ -1,11 +1,11 @@
 kbd = Keyboard.new
 
 kbd.split = true
-kbd.uart_pin = 0
+kbd.uart_pin = 15
 
 kbd.init_pins(
-  [14, 15], # rows
-  [17, 16] # columns
+  [ 7,  8], # rows
+  [14, 26] # columns
 )
 
 kbd.add_layer :default, %i(
