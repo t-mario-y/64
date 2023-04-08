@@ -538,7 +538,6 @@
     )
   )
 
-
   (junction (at 266.7 115.57) (diameter 0) (color 0 0 0 0)
     (uuid 00f2a1ab-aba1-4095-a49b-6b569783f05c)
   )
@@ -4236,7 +4235,7 @@
     (property "Value" "RP2040-Zero" (at 41.91 36.83 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "RP2040-zero:RP2040-Zero_through_hole_omit" (at 48.26 35.56 0)
+    (property "Footprint" "keyboard_parts:RP2040-Zero_reversible" (at 48.26 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 48.26 35.56 0)
@@ -4543,7 +4542,7 @@
     (property "Value" "RP2040-Zero" (at 92.71 36.83 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "RP2040-zero:RP2040-Zero_through_hole_omit" (at 99.06 35.56 0)
+    (property "Footprint" "keyboard_parts:RP2040-Zero_reversible" (at 99.06 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 99.06 35.56 0)
