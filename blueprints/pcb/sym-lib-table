@@ -1,8 +1,5 @@
 (sym_lib_table
   (version 7)
-  (lib (name "foostan_kbd")(type "Legacy")(uri "/Users/t-mario-y/ghq/github.com/foostan/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
-  (lib (name "raspberry-pi-pico")(type "KiCad")(uri "/Users/t-mario-y/ghq/github.com/t-mario-y/KiCad-RP-Pico/RP-Pico_Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
   (lib (name "Salicylic-acid3_kbd_Parts")(type "KiCad")(uri "/Users/t-mario-y/ghq/github.com/Salicylic-acid3/KiCAD_FootPrint/Salicylic_kbd_Library/Salicylic_kbd.kicad_sym")(options "")(descr ""))
-  (lib (name "usb_type-c_dip_connector")(type "KiCad")(uri "/Users/t-mario-y/ghq/github.com/t-mario-y/11111/blueprints/kicad_libraries/usb_type-c_dip_connector.kicad_sym")(options "")(descr ""))
-  (lib (name "RP2040-zero")(type "KiCad")(uri "/Users/t-mario-y/ghq/github.com/okkdev/comfybox/pcb/lib/RP2040-Zero.pretty/RP2040-Zero.kicad_sym")(options "")(descr ""))
+  (lib (name "RP2040-zero")(type "KiCad")(uri "/Users/t-mario-y/ghq/github.com/t-mario-y/11111/blueprints/kicad_libraries/keyboard_parts.pretty/RP2040-Zero.kicad_sym")(options "")(descr ""))
 )
