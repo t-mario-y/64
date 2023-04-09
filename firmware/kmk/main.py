@@ -7,11 +7,11 @@ print("Starting 11111 keyboard.")
 
 keyboard = KMKKeyboard()
 
-layers_ext = Layers()
+layers = Layers()
 split = Split(
     split_type=SplitType.UART, split_flip=True, data_pin=keyboard.data_pin, use_pio=True
 )
-keyboard.modules = [layers_ext, split]
+keyboard.modules = [layers, split]
 
 LOWER = KC.MO(1)
 RAISE = KC.MO(2)
