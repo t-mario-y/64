@@ -447,7 +447,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "11111_plates.step",
+      "step": "../../dist/ver3/models/11111_top-plate.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""
