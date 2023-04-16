@@ -1212,10 +1212,10 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp f5723cc1-ce90-4d98-827b-d737ed47d286))
   (gr_line (start 25.4 20.316051) (end 167.683949 20.312102)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp fb3f9330-3094-4ac5-8d17-da2f5bfb9375))
-  (gr_text "11111 ver.3" (at 185.398025 117.585923) (layer "F.SilkS") (tstamp 3251904b-9da2-4bc0-ae50-fc102b4d384a)
+  (gr_text "64 ver.3" (at 185.398025 117.585923) (layer "F.SilkS") (tstamp 3251904b-9da2-4bc0-ae50-fc102b4d384a)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "11111 ver.3" (at 27.94 120.12) (layer "F.SilkS") (tstamp 94fbdb50-7ff7-467f-9754-eaf60577a641)
+  (gr_text "64 ver.3" (at 27.94 120.12) (layer "F.SilkS") (tstamp 94fbdb50-7ff7-467f-9754-eaf60577a641)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
 
