@@ -4,7 +4,7 @@ from kmk.modules.holdtap import HoldTap
 from kmk.modules.layers import Layers
 from kmk.modules.split import Split, SplitType
 
-print("Starting 11111 keyboard.")
+print("Starting 64 keyboard.")
 
 keyboard = KMKKeyboard()
 keyboard.tap_time = 150
