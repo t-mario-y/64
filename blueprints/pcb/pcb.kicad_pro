@@ -447,7 +447,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "11111_pcb.step",
+      "step": "../../dist/ver3/models/pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
