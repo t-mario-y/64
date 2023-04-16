@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ '11111_left-case.step',
-/* time_stamp */ '2023-04-15T19:04:00+09:00',
+/* name */ 'left-case.step',
+/* time_stamp */ '2023-04-16T10:17:11+09:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v19.2',
@@ -3181,16 +3181,15 @@ SOLID_ANGLE_UNIT()
 #3113=PRODUCT_DEFINITION_SHAPE('',$,#3116);
 #3114=SHAPE_REPRESENTATION('',(#1977),#3107);
 #3115=PRODUCT_DEFINITION_CONTEXT('part definition',#3120,'design');
-#3116=PRODUCT_DEFINITION('11111_case','11111_case v23',#3117,#3115);
+#3116=PRODUCT_DEFINITION('64_case','64_case v26',#3117,#3115);
 #3117=PRODUCT_DEFINITION_FORMATION('',$,#3122);
-#3118=PRODUCT_RELATED_PRODUCT_CATEGORY('11111_case v23',
-'11111_case v23',(#3122));
+#3118=PRODUCT_RELATED_PRODUCT_CATEGORY('64_case v26','64_case v26',(#3122));
 #3119=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#3120);
 #3120=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #3121=PRODUCT_CONTEXT('part definition',#3120,'mechanical');
-#3122=PRODUCT('11111_case','11111_case v23',$,(#3121));
+#3122=PRODUCT('64_case','64_case v26',$,(#3121));
 #3123=PRESENTATION_STYLE_ASSIGNMENT((#3124));
 #3124=SURFACE_STYLE_USAGE(.BOTH.,#3125);
 #3125=SURFACE_SIDE_STYLE('',(#3126));
