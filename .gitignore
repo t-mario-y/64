@@ -29,5 +29,5 @@ fp-info-cache
 *.csv
 
 # backup files
-blueprints/pcb/11111_pcb-backups/
+blueprints/pcb/pcb-backups/
 blueprints/plates/plates-backups/
