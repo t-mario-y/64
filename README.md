@@ -1,4 +1,4 @@
-# 11111
+# 64
 
 Splitted, Cherry MX switch, 64 keys, ortholinear mechanical keyboard.
 
